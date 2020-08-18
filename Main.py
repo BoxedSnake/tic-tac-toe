@@ -1,6 +1,6 @@
-import Player as P
+import features.Player as P
 #importing the player class into file with the alias P
-import board as B
+import features.board as B
 #same as above but for the board and the alias B
 import random
 
