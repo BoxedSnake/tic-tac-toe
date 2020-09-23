@@ -1,2 +1,4 @@
 # tic-tac-toe
- game
+ Python based
+ set-up before playing
+ 
